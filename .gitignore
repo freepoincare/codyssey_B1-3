@@ -1,0 +1,12 @@
+# Ignore all files with the .pdf, .docx, and .txt extensions in the images and docs directories
+*.pdf
+images/*.pdf
+docs/*.docx
+docs/*.txt
+
+# Ignore all files with the .jpg and .png extensions
+images/*.jpg
+images/*.png
+
+# Ignore the .env file which may contain sensitive information
+.env
