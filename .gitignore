@@ -4,9 +4,9 @@ images/*.pdf
 docs/*.docx
 docs/*.txt
 
-# Ignore all files with the .jpg and .png extensions
-images/*.jpg
-images/*.png
+# Ignore some files with the .jpg and .png extensions
+images/make_workflow.jpg
+images/project2_make_workflow.jpg
 
 # Ignore the .env file which may contain sensitive information
 .env
